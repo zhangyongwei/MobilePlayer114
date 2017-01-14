@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\EventBus\\EventBus3.0_Sample\\build\\intermediates\\res\\merged\\debug\\menu\\second.xml",
+        "source": "C:\\AndroidStudioProjects\\EventBus\\EventBus3.0_Sample\\src\\main\\res\\menu\\second.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication3\\tryEventBus2\\build\\intermediates\\res\\merged\\debug\\menu\\second.xml",
+        "source": "C:\\AndroidStudioProjects\\MyApplication3\\tryEventBus2\\src\\main\\res\\menu\\second.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobilePlayer1020\\EventBus3.0_Sample\\build\\intermediates\\res\\merged\\debug\\menu\\second.xml",
+        "source": "D:\\workspace\\MobilePlayer1020\\EventBus3.0_Sample\\src\\main\\res\\menu\\second.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\EventBus\\EventBus3.0_Sample\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\AndroidStudioProjects\\EventBus\\EventBus3.0_Sample\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\ScreenAdapter\\tryEventBus2\\build\\intermediates\\res\\merged\\debug\\menu\\second.xml",
+        "source": "C:\\AndroidStudioProjects\\ScreenAdapter\\tryEventBus2\\src\\main\\res\\menu\\second.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\EventBus\\tryEventBus2\\build\\intermediates\\res\\merged\\debug\\menu\\second.xml",
+        "source": "C:\\AndroidStudioProjects\\EventBus\\tryEventBus2\\src\\main\\res\\menu\\second.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobilePlayer1020\\EventBus3.0_Sample\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\workspace\\MobilePlayer1020\\EventBus3.0_Sample\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\ScreenAdapter\\tryEventBus2\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\AndroidStudioProjects\\ScreenAdapter\\tryEventBus2\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\OpenSource\\tryEventBus2\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\AndroidStudioProjects\\OpenSource\\tryEventBus2\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication3\\tryEventBus2\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\AndroidStudioProjects\\MyApplication3\\tryEventBus2\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\EventBus\\tryEventBus2\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\AndroidStudioProjects\\EventBus\\tryEventBus2\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\OpenSource\\tryEventBus2\\build\\intermediates\\res\\merged\\debug\\menu\\second.xml",
+        "source": "C:\\AndroidStudioProjects\\OpenSource\\tryEventBus2\\src\\main\\res\\menu\\second.xml"
+    }
+]

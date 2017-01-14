@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\EventBus\\EventBus3.0_Sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\EventBus\\EventBus3.0_Sample\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication3\\tryEventBus2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\MyApplication3\\tryEventBus2\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\EventBus\\tryEventBus2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\EventBus\\tryEventBus2\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\OpenSource\\tryEventBus2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\OpenSource\\tryEventBus2\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\ScreenAdapter\\tryEventBus2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\ScreenAdapter\\tryEventBus2\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]
